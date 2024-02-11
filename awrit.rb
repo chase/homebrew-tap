@@ -35,7 +35,7 @@ You can ignore any errors above that start with:
 - Failed changing dylib ID
 - Failed to fix install linkage
 
-Please do not report this as an issue on GitHub. Homebrew is not smart and there is no way to preven this.
+Please do not report this as an issue on GitHub. Homebrew is not smart and there is no way to prevent this.
     EOS
   end
 end
